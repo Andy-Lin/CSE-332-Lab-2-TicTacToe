@@ -2,7 +2,7 @@
 #define QUIT 1
 #define DRAW 2
 
-//This is a test
+
 // constructor initializes the board and the draw status
 Board::Board(bool playStatus) {
 	numMoves = 0;
