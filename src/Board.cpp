@@ -2,7 +2,6 @@
 #define QUIT 1
 #define DRAW 2
 
-
 // constructor initializes the board and the draw status
 Board::Board(bool playStatus) {
 	numMoves = 0;
